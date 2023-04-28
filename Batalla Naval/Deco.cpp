@@ -1,6 +1,5 @@
 //Batalla Naval -- Deco
-#include<iostream>
-#include<conio.h>
+#include<bits/stdc++>
 using namespace std;
 
 void inicio()
