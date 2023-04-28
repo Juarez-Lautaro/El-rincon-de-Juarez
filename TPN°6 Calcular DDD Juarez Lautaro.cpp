@@ -11,7 +11,6 @@ string DestinoPorDDD (int ddd) {
 			return destinos[i];
 		}
 	}
-	
 	return "DDD NO ENCONTRADO";
 }
 
