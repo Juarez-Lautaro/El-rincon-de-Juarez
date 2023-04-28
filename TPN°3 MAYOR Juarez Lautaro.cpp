@@ -11,7 +11,6 @@ using namespace std;
 	if (c > mayor) {
 		mayor = c;
 	}
-	
 	return mayor;
  }
 
