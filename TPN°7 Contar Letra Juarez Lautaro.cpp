@@ -14,7 +14,8 @@ int ContarLetraA(string frase) {
 
 int main(){
 	string frase;
-	cout << "Ingrese una frase: ";
+	
+	cout << "Ingrese una frase: "<<endl;
 	getline(cin, frase);
 	
 	int cantidad_vocales = ContarLetraA(frase);
