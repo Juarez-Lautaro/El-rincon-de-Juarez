@@ -26,7 +26,6 @@ float CalcularSalario (int salario) {
 	cout << "Em percentual: " << aumento/salario*100 << " %" <<endl;
 	
 	return salario_atualizado;
-	
 }
 
 int main() {
