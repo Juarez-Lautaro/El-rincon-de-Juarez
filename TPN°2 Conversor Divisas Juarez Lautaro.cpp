@@ -5,7 +5,6 @@ int ConvertirPesos(int cantidad) {
 	return cantidad * 331.37;
 }
 
-
 int main() {
 	int dolares;
 	
