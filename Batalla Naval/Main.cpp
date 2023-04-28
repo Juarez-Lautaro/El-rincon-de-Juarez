@@ -1,7 +1,5 @@
 //Batalla Naval -- Main
-#include<iostream>
-#include<vector>
-#include<conio.h>
+#include<bits/stdc++.h>
 #include"Bot.cpp"
 #include"Barcos.cpp"
 #include"Deco.cpp"
