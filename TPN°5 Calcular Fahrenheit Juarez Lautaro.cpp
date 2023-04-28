@@ -13,7 +13,6 @@ int main() {
 	
 	float Fahrenheit = CalcularFahrenheit(Celsius);
 	
-	cout << "La temperatura equivalente en grados Fahrenheit es: " << Fahrenheit << "°F";
-	 
+	cout << "La temperatura equivalente en grados Fahrenheit es: " << Fahrenheit << "Â°F"; 
 	return 0;
 }
