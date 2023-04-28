@@ -1,8 +1,5 @@
 //Batalla Naval -- Bot
-#include<iostream>
-#include<time.h>
-#include<stdlib.h>
-#include<vector>
+#include<bits/stdc++.h>
 using namespace std;
 typedef vector<char> Fila;
 typedef vector<Fila> Matriz;
@@ -175,4 +172,3 @@ pair<int, int> ingrRandomBot(Matriz matriz)
 	}while(matriz[temp.second][temp.first] != 32);
 	return temp;
 }
-
