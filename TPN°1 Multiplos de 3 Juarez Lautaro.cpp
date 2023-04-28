@@ -23,7 +23,5 @@ int main() {
 		cout << "NO ES MULTIPLO" << endl;
 		
 	}
-	
-	
 	return 0;
 }
